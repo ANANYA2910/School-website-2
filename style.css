@@ -1,0 +1,15 @@
+body {
+    
+    background: linear-gradient(#FF80AB 50%, #00B0FF 100%);
+    
+}
+
+.announcement {
+    background-color: beige;
+
+}
+#school_main_heading{
+    
+font-size:20px;
+font-family:cursive;
+}
